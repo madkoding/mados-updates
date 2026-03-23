@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-03-23",
+  "packages": [
+    {
+      "name": "mados-core",
+      "version": "1.0.0-1",
+      "size": 524288000,
+      "description": "madOS core system packages"
+    },
+    {
+      "name": "mados-desktop",
+      "version": "1.0.0-1",
+      "size": 1073741824,
+      "description": "madOS desktop environment"
+    }
+  ],
+  "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "changelog": "Initial madOS release",
+  "min_supported_version": "0.0.0"
+}
